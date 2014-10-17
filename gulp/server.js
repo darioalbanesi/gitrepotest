@@ -25,7 +25,7 @@ gulp.task('serve', ['watch'], function () {
     'src',
     '.tmp'
   ], [
-    '.tmp/{app,components}/**/*.css',
+    'src/assets/styles/{app,components}/**/*.css',
     'src/assets/images/**/*',
     'src/*.html',
     'src/{app,components}/**/*.html',
