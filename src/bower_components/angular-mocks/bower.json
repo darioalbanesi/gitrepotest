@@ -1,0 +1,9 @@
+{
+  "name": "angular-mocks",
+  "version": "1.2.27-build.521+sha.31b6bfa",
+  "main": "./angular-mocks.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.2.27-build.521+sha.31b6bfa"
+  }
+}
